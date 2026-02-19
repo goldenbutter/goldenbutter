@@ -42,6 +42,8 @@ My focus is on designing robust data solutions, optimizing performance, and enab
 - Microsoft Azure Fundamentals
 - AWS Techinal Professional
 - AWS Business Professional
+- Docker foundation Professional
+- Github professional
 
 
 
