@@ -1,5 +1,8 @@
-Welcome to my profile! I am a **Senior Technical Consultant** specializing in **ETL**, **database development** and **DevOps data engineering**, **data analysing** with extensive experience across Norway, India, and Singapore. 
-My focus is on designing robust data solutions, optimizing performance, and enabling efficient data-driven decision-making for businesses.
+Welcome to my profile! <br>
+I am an **IT professional** with **17 years** of experience, including 12+ years in Data Warehousing & Business Intelligence. Skilled across database engineering, ETL/ELT development, cloud technologies, DevOps automation and modern AI‑assisted development, with extensive experience across Norway, India and Singapore. <br>
+My focus is on designing robust data solutions, optimizing performance and enabling efficient data-driven decision-making for businesses.
+
+
 
 # 👨‍💻 About Me
 
@@ -8,79 +11,103 @@ My focus is on designing robust data solutions, optimizing performance, and enab
 - **Languages**: English (Fluent), Norwegian (B1), Hindi (Fluent), Bengali (Fluent)
 
 
-# Skills & Expertise
+# 🛠️ Skills & Expertise
 
-- **ETL/ELT Development & Automation**: Informatica, Snowflake, Oracle FME, Abinitio
-- **Database Design & Modeling:** Oracle SQL/PL-SQL, MSSQL, PostgreSQL, MongoDB
-- **Cloud & Data Platforms**: Azure, AWS
-- **Data Visualization**: Power BI, Excel (DAX , Power query)
-- **Performance Tuning & Optimization** : Advanced SQL, PL/SQL, table partitioning, query optimization, backup and restoration
-- **DevOps & Collaboration**: Git, GitHub, Azure DevOps, AWS Services
-- **Other Tools**: Linux, Shell scripting, PowerShell, Python (Basic)
-- **Container Platform**: Docker, Podman
-- **Orchestration**: Kubernetes
-- **Deployment** : Octopus, Jenkins (CI/CD)
-- **Infrastructure as Code** : Helm, Terradata (Basic), Ansible (Basic)
+### Languages & Frameworks
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt="React" width="40" height="40"/>&nbsp;
+          
+</div>
 
-# Work Experience
+### Cloud & DevOps
+<div>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+</div>
 
-- **Volue AS / Powel** (Norway): Senior Technical Consultant (2020–**Present**)
-- **L&T Infotech** / **CitiBank** / **Nets** (India, Singapore, Norway): Project Leader (2014–2020)
-- **Cognizant Technology Private Ltd** (India): Associate (2010–2014)
-- **Techmahindra Ltd** (India): Technical Associate (2008–2010)
+### Databases
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/snowflake.svg" title="Snowflake" alt="Git" width="40" height="40"/>&nbsp;       
+  
+</div>
 
-# Education
+### Others
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="Github" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Git" width="40" height="40"/>&nbsp;
+</div>
 
-**Bachelor’s Degree** in Information Technology
-- JIS College of University (2004–2008)
+---
 
+# 📊 GitHub Stats
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-# Certificates
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=goldenbutter&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=goldenbutter&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=goldenbutter&show_icons=true&count_private=true&theme=default" height="200px">
+  </picture>
 
-- Informatica Data Governance
-- Microsoft Azure Fundamentals
-- AWS Techinal Professional
-- AWS Business Professional
-- Docker foundation Professional
-- Github professional
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=goldenbutter&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=goldenbutter&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=goldenbutter&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
 
+</div>
 
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goldenbutter&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+</div>
 
-# Projects
-Here you’ll find a selection of my public projects, code samples, and contributions.<br>
-Feel free to explore the repositories and reach out for collaboration or consulting opportunities!
+# 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=goldenbutter&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
 
-- **Azure Could migration from on-prem** | Duration: 2024 – Present
-  - **Key Achievement**: Participated in migration **5 projects** from on-premises to **Azure Cloud Infrastructure**, utilizing multitenant architecture and advanced storage management. 
-- **Matrikkel-Migration** | Duration: 2024 – 2025
-  - **Key Achievement**: Merged multiple municipalities'geodata (more than **63**) into one database when two or more different Grid companies merged together via kartverket (The Norwegian Mapping Authority)
-- **NRL implementation** for more than **55** grid companies| Duration: 2023 – 2024
-  - **Key Achievement**: Delivered the nationwide implementation of NRL for **50+** grid companies, enabling standardized aviation‑obstacle reporting and significantly strengthening national air‑safety compliance.
-- **Microservice Demo (Python FastAPI + HTML/JS + Docker + Kubernetes)** | Duration: 2026 – Present
-  - **Key Achievement**: Designed a lightweight, containerized **FastAPI backend** and **HTML/JS frontend** to practice real‑world **Docker** workflows, **multi‑service orchestration**, and **Kubernetes deployments**. Built hands‑on experience with **Deployments, Services, Ingress**, and single‑port container exposure. Enabled easy local testing with **docker‑compose**, clear folder structure, and minimal code to focus on automation, deployment fundamentals, and microservice patterns.
-- **Cloud‑Native 3‑Tier Web App on AWS with EKS, ECR & Ingress (ALB)** | Duration: 2025 – Present
-  - **Key Achievement**: Achieved **99.9%** uptime and **~25%** cost optimization through autoscaling, resource rightsizing, and Spot instance usage. Integrated **Prometheus** and **Grafana** for real-time monitoring, dashboards, and alerting, reducing incident resolution time by **30%**.
-- **Publications – Full‑Stack Demo (ASP.NET API + React SPA + Docker + Jenkins CI/CD)** | Duration: 2026 – Present
-  - **Key Achievement**: Built a fully production‑ready, containerized **ASP.NET API** + **React** SPA platform, enabling seamless deployment to **EC2** and other servers and reducing environment setup time by **~50%** through **Docker**, **Nginx** and automated **Jenkins pipelines**. Delivered an end‑to‑end **CI/CD** workflow with **GitHub Webhooks** that cut manual deployment effort by **60%** and ensured consistent, **single‑port** (using **reverse proxy**) hosting for API, SPA and **Swagger** in any cloud environment.
+# 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goldenbutter&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
 
+# 🌐 Connect me
 
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://goldenbutter.github.io/Portfolio_EN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bithun-chatterjee/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goldenbutter007/)
+[![Facebook](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=blue&logoSize=auto&labelColor=white&color=blue)](https://www.facebook.com/goldenbutter007/)
+[![Email](https://img.shields.io/badge/Email-Bithun-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bithun.chatterjee@gmail.com)
 
+</div>
 
-# Personal Statement
+<div align="center">
+  
+### 💡 Happy Coding!
 
-I have lived in Norway for the past eight years (two years in Oslo and five years in Trondheim). Recently I bought a small house in **Fannrem** – a small charming village with maximum 1500 residents (probably half of them are cows!). I enjoy reading and have a collection of over 100 books at home, which reflects my curiosity and love for continuous learning. I also learned to ski last year and am practicing more. I am socially very active, easily build connections and value teamwork. Originally from India, but I have embraced Norwegian culture by learning the language (passed **B1** level test).
+![Profile Views](https://komarev.com/ghpvc/?username=goldenbutter&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/goldenbutter?label=Follow&style=social)](https://github.com/goldenbutter)
 
-
-
-
-
-# Connect
-
-- **Email**: bithun.chatterjee@gmail.com
-- **Phone**: +47 92509229<br>
-[Linkdin](https://www.linkedin.com/in/bithun-chatterjee/)
-
-[![GitHub followers](https://img.shields.io/github/followers/goldenbutter?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/goldenbutter?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=goldenbutter&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
+</div>
