@@ -80,4 +80,7 @@ I have lived in Norway for the past eight years (two years in Oslo and five year
 
 - **Email**: bithun.chatterjee@gmail.com
 - **Phone**: +47 92509229<br>
-[Linkdin](https://www.linkedin.com/in/bithun-chatterjee-95911a1b/)
+[Linkdin](https://www.linkedin.com/in/bithun-chatterjee/)
+
+[![GitHub followers](https://img.shields.io/github/followers/goldenbutter?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/goldenbutter?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=goldenbutter&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
