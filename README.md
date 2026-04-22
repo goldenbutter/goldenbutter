@@ -32,13 +32,7 @@ My focus is on designing robust data solutions, optimizing performance and enabl
   </tr>
   <tr>
     <td align="right"><b>Databases</b></td>
-    <td>
-      <img src="https://api.iconify.design/logos:oracle.svg" title="Oracle" alt="Oracle" width="48" height="48" />
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
-      </a>
-      <img src="https://api.iconify.design/logos:snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="48" height="48" />
-    </td>
+    <td><img src="https://img.icons8.com/color/48/oracle-logo.png" title="Oracle" alt="Oracle" width="48" height="48" /><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" /></a><img src="https://api.iconify.design/logos:snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="48" height="48" /></td>
   </tr>
   <tr>
     <td align="right"><b>Tools</b></td>
