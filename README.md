@@ -32,7 +32,7 @@ My focus is on designing robust data solutions, optimizing performance and enabl
   </tr>
   <tr>
     <td align="right"><b>Databases</b></td>
-    <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" height="40" /></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" /></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" /></a> <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" /></a> <a href="#"><img src="https://api.iconify.design/logos:snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="40" height="40" /></a></td>
+    <td><img src="assets/skills-databases.svg" alt="Oracle, MySQL, PostgreSQL, MongoDB, Snowflake" height="48" /></td>
   </tr>
   <tr>
     <td align="right"><b>Tools</b></td>
