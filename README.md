@@ -32,7 +32,7 @@ My focus is on designing robust data solutions, optimizing performance and enabl
   </tr>
   <tr>
     <td align="right"><b>Databases</b></td>
-    <td><img src="https://img.icons8.com/color/48/oracle-logo.png" title="Oracle" alt="Oracle" width="48" height="48" /><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" /></a><img src="https://api.iconify.design/logos:snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="48" height="48" /></td>
+    <td nowrap><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" height="40" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;<img src="https://api.iconify.design/logos:snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="40" height="40" /></td>
   </tr>
   <tr>
     <td align="right"><b>Tools</b></td>
